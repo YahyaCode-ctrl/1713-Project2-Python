@@ -45,4 +45,3 @@ Cada "Training * (Exercici*) es un fitxer `.py`.
 ## 👤 Autor
 * **Yahya Elhadri**
 * [Perfil de GitHub](https://github.com/YahyaCode-ctrl)
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython_logo_and_wordmark.svg&psig=AOvVaw3HEQPSpGa3u5uiXwZ6Pyrr&ust=1763222142899000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOi55sGA8pADFQAAAAAdAAAAABAV)
