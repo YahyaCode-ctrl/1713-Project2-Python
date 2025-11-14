@@ -1,4 +1,4 @@
-# 🐍 Python - Projecte 2
+# :snake: Python - Projecte 2
 
 Hola! Soc **Yahya Elhadri**, alumne de l'Institut Montsià.
 
