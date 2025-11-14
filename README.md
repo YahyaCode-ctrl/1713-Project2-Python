@@ -1,4 +1,4 @@
-# :snake: Python - Projecte 2 :snake:
+# <img width="50" height="50" alt="python_logo_icon_168886" src="https://github.com/user-attachments/assets/8a7445fd-743f-4beb-8231-7dc9cd975568" /> Python - Projecte 2  <img width="50" height="50" alt="python_logo_icon_168886" src="https://github.com/user-attachments/assets/8a7445fd-743f-4beb-8231-7dc9cd975568" />
 
 Hola! Soc **Yahya Elhadri**, alumne de l'Institut Montsià.
 
