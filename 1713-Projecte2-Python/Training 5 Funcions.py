@@ -1,6 +1,6 @@
 #Funcions:
 
-def calcul_de_area_cudrat():
+def calcul_de_area_cuadrat():
     print("--- ÀREA DEL QUADRAT ---")
     medida = float(input('Introdueix la longitud del costat del quadrat: '))
     area = medida * medida
@@ -81,23 +81,28 @@ def main():
 
         
         opcio = input("Tria una opció: ")
-        if opcio == '1':
-            calcul_de_area_cudrat()
-        elif opcio == '2':
-            ets_menor_o_major()
-        elif opcio == '3':
-            comparar_nums()
-        elif opcio == '4':
-            calculadora()
-        elif opcio == '5':
-            negatiu_o_positiu()
-        elif opcio == '6':
-            llista_dels_numeros_parells()
-        elif opcio == '7':
-            print("Gràcies. Adéu!")
-            break
-        else:
-            print(" Opció no vàlida, torna-ho a provar.")
+        match opcio:
+            case "1" :
+                calcul_de_area_cuadrat()
+            case "2" :
+                ets_menor_o_major()
+            case "3" :
+                comparar_nums()
+            case "4" :
+                calculadora()
+            case "5" :
+                negatiu_o_positiu()
+            case "6" :
+                llista_dels_numeros_parells()
+            case "7" :
+                print("Adeu, gracies")
+                break
+
+        
+        
+        
+        
+        
 
 if __name__ == "__main__":
     main()
