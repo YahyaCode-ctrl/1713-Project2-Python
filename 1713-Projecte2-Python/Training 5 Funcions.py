@@ -30,7 +30,7 @@ def comparar_nums():
         print(text3, "es el major")
 
 def calculadora():
-    print('\n--- CALCULADORA DE YAHYA ELHADRI ---')
+    print("--- CALCULADORA DE YAHYA ELHADRI ---")
     
     text1 = input('Introdueix el primer numero: ')
     text2 = input('Introdueix el segon numero: ')
@@ -55,22 +55,30 @@ def calculadora():
         print('Operacio no valida')
 
 def negatiu_o_positiu():
-    print("\n--- POSITIU O NEGATIU ---")
+    print("--- POSITIU O NEGATIU ---")
     numero = int(input("Introdueix un numero: "))
 
     if numero >= 0:
         print(numero, "és positiu +")
     elif numero < 0:
         print(numero, "és negatiu -")
+def llista_dels_numeros_parells():
+    print(" -- la lista de nombre parells entre 1 i 200 és --")
+    for parells in range(1, 201) :
+        if parells%2 == 0 :
+            print(parells)
+    print(" -- fi de la llista!!--")
 def main():
    while True:
-        print(" ------ MENÚ D'EXERCICIS ------")
+        print(" ------ MENÚ D'EXERCICIS ------ ")
         print("1. Àrea del Quadrat")
         print("2. Major o Menor d'edat")
         print("3. Comparar 3 números")
         print("4. Calculadora")
         print("5. Positiu o Negatiu")
-        print("6. Sortir")
+        print("6. Llista de Números Parells entre 1 i 200")
+        print("7. Sortir")
+
         
         opcio = input("Tria una opció: ")
         if opcio == '1':
@@ -84,11 +92,12 @@ def main():
         elif opcio == '5':
             negatiu_o_positiu()
         elif opcio == '6':
+            llista_dels_numeros_parells()
+        elif opcio == '7':
             print("Gràcies. Adéu!")
             break
         else:
             print(" Opció no vàlida, torna-ho a provar.")
-
 
 if __name__ == "__main__":
     main()
