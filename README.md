@@ -41,7 +41,7 @@ A continuació, detallo el progrés i els temes coberts a cada secció:
 
 ##  Com executar els exercicis
 
-Cada "Training" és un fitxer `.py` independent (o hauria de ser-ho).
+Cada "Training * (Exercici*) es un fitxer `.py`.
 
 1.  Clona el repositori:
     ```bash
