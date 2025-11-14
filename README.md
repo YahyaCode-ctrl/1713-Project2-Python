@@ -24,7 +24,6 @@ A continuació, detallo el progrés i els temes coberts a cada secció:
 * **Objectiu:** Crear programes que prenguin decisions.
 * **Pràctiques:**
     * Ús de `if`, `elif` i `else`.
-    * Avaluació de condicions booleanes.
 
 ### 4. Training 4: Bucles (Loops)
 * **Objectiu:** Repetir tasques de forma eficient.
@@ -36,7 +35,6 @@ A continuació, detallo el progrés i els temes coberts a cada secció:
 * **Objectiu:** Organitzar el codi en blocs reutilitzables.
 * **Pràctiques:**
     * Definició de funcions amb `def`.
-    * Ús de paràmetres (arguments) i valors de retorn (`return`).
     * i fer un menu de tots el exercici que he fet. 
 
 ---
