@@ -5,11 +5,6 @@ Hola! Soc **Yahya Elhadri**, alumne de l'Institut Montsià.
 Aquest repositori no és un sol projecte, sinó una **col·lecció dels meus exercicis i aprenentatges** durant el curs de Programació. Cada "Training" representa un concepte clau de Python que he practicat.
 
 ---
-
-##  Conceptes Apresos
-
-A continuació, detallo el progrés i els temes coberts a cada secció:
-
 ### 1. Training 1: Fonaments Bàsics
 * **Objectiu:** Entendre la sortida per consola.
 * **Pràctica:** Ús de la comanda `print("Hello World")` per mostrar text.
