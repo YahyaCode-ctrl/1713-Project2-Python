@@ -39,7 +39,7 @@ A continuació, detallo el progrés i els temes coberts a cada secció:
 
 ---
 
-## 💻 Com executar els exercicis
+##  Com executar els exercicis
 
 Cada "Training" és un fitxer `.py` independent (o hauria de ser-ho).
 
